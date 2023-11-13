@@ -39,6 +39,10 @@ function multiply(a, b) {
 function multiply(a, b) {
   return a * b;
 }
+
+// Another Solution
+
+const multiply = (a, b) => a * b;
 ```
 
 ## Work Experience
