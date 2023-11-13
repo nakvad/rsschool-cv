@@ -35,13 +35,12 @@ function multiply(a, b) {
   a * b;
 }
 
-// Solution
+// First Solution
 function multiply(a, b) {
   return a * b;
 }
 
-// Another Solution
-
+// Second Solution
 const multiply = (a, b) => a * b;
 ```
 
