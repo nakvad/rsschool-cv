@@ -1,2 +1,3 @@
 # rsschool-cv
-Public repository for my CV
+
+https://nakvad.github.io/rsschool-cv/cv
