@@ -1,6 +1,4 @@
-## CV
-
-# evgeny.busin@gmail.com
+## Evgeny Busin
 
 **Contact Information:**
 
